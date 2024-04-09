@@ -10,7 +10,7 @@
 
 ## Introducción
 
-Just Fibonacci es una biblioteca de JavaScript diseñada para generar números de la secuencia de Fibonacci de manera eficiente y flexible. Esta biblioteca ofrece varias formas de generar la secuencia de Fibonacci, permitiendo a los desarrolladores elegir el método que mejor se adapte a sus necesidades.
+Just Fibonacci es una biblioteca de JavaScript diseñada para generar números de la secuencia de Fibonacci de manera eficiente y flexible. Esta biblioteca está en desarrollo pero ofrecerá varias formas de generar la secuencia de Fibonacci, permitiendo a los desarrolladores elegir el método que mejor se adapte a sus necesidades.
 
 ## Instalación
 
