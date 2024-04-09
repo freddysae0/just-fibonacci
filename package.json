@@ -8,7 +8,16 @@
     "start": "node index.js",
     "genf": "node ways-to-generate/gen-function.js"
   },
-  "keywords": [],
+  "keywords": [
+    "JavaScript",
+    "Fibonacci",
+    "Biblioteca",
+    "Eficiente",
+    "Flexible",
+    "Generación de números",
+    "Desarrollo",
+    "Secuencia"
+  ],
   "author": "Freddy Javier Sáez Avila",
   "license": "ISC"
 }
