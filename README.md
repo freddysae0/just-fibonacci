@@ -22,8 +22,18 @@ npm install just-fibonacci
 
 Para utilizar Just Fibonacci en tu proyecto, primero debes importar la biblioteca:
 
-```javascript
-const { fibonacci } = require("just-fibonacci");
+```js
+const fibonacci = require("just-fibonacci");
 ```
 
 Luego, puedes utilizar cualquiera de los métodos de generación disponibles para obtener números de la secuencia de Fibonacci.
+
+```js
+//Usando la función generadora
+const list = fibonacci.genFunction();
+console.log(list.next().value); //--> 0;
+console.log(list.next().value); //--> 1;
+console.log(list.next().value); //--> 1;
+console.log(list.next().value); //--> 2;
+console.log(list.next().value); //--> 3;
+```
