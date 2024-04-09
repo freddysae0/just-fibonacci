@@ -1,7 +1,5 @@
 # Just Fibonacci
 
-# Just Fibonacci
-
 ## Índice
 
 1. [Introducción](#introducción)
