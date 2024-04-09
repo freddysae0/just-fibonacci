@@ -1,0 +1,15 @@
+{
+  "name": "just-fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "genf": "node ways-to-generate/gen-function.js"
+  },
+  "keywords": [],
+  "author": "Freddy Javier Sáez Avila",
+  "license": "ISC",
+  "type": "module"
+}
