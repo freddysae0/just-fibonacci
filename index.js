@@ -1,3 +1,3 @@
-import { fibonacci as generatorFunction } from "./ways-to-generate/gen-function.js";
+const { genFunction } = require("./ways-to-generate/gen-function.js");
 
-export default { generatorFunction };
+module.exports = { genFunction };

@@ -11,7 +11,7 @@ let b = 1;
  * Esta función no toma argumentos y utiliza un bucle infinito para generar los números de Fibonacci.
  * @returns {Generator} Un generador que produce números de la secuencia de Fibonacci.
  */
-function* fibonacci() {
+function* genFunction() {
   // Bucle infinito que permite la generación continua de números de Fibonacci.
   while (true) {
     // La palabra clave 'yield' pausa la ejecución de la función y devuelve el valor actual de 'a', que es el próximo número en la secuencia de Fibonacci.
@@ -24,4 +24,4 @@ function* fibonacci() {
   }
 }
 
-export { fibonacci };
+module.exports = { genFunction };
